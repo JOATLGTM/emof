@@ -28,7 +28,6 @@ const VideoModal = ({ imageUrl, videoUrl }) => {
                     height="315"
                     src={videoUrl}
                     title="Video"
-                    frameBorder="0"
                     allowFullScreen
                 ></iframe>
             </Modal>

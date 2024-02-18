@@ -10,11 +10,27 @@ body {
     font-style: italic;
 }
 
-.sup {
-    color: #fff;
-    background: red;
-    padding: 7px 7px;
-    text-decoration: none;
-    width: 80px;
+.section {
+    height: 30em;
+    display: flex;
+    flex-basis: auto;
+}
+
+.center {
     margin: auto;
+    width: 100%;
+    padding: 10px;
+}
+
+.footer {
+    background-color: #00AFF0;
+    height: 15em;
+}
+
+.gap {
+    margin-top: 2em;
+}
+
+.text-center {
+    padding: 0 10em;
 }
